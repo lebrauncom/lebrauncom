@@ -1,3 +1,5 @@
+![Background Arrows](./assets/bg.v2.jpg)
+
 ### Hi there 👋
 
 <!--
